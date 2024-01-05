@@ -16,8 +16,7 @@ export default function Home() {
         {/* <RightPanel /> */}
         {/* Footer for Mobile */}
         <div className="flex pb-6 xl:hidden">
-          {' '}
-          <Footer />{' '}
+          <Footer />
         </div>
       </div>
     </main>
